@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestDagger2</string>
+    <string name="flower_image">Flower Image</string>
+</resources>
